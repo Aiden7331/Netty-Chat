@@ -1,6 +1,11 @@
-# Netty-Chat (V 0.1)
+# WebSocket-Netty-Chat (V 0.1)
 Web Socket 기반의 Netty Server Program
- 
+
+### 사용법
+Web Browser에서 127.0.0.1:9999/ws로 websocket 생성시
+HTTP가 websocket으로 업그레이드 된 후 join 메시지 전달.
+
+
 ### Codec
 
 LineBasedFrameDecoder
