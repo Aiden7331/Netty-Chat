@@ -1,6 +1,6 @@
-# Netty-Chat
-네티 연습 - Netty Client와 Netty Server를 이용한 채팅 프로그램
-
+# Netty-Chat (V 0.1)
+Web Socket 기반의 Netty Server Program
+ 
 ### Codec
 
 LineBasedFrameDecoder
