@@ -4,8 +4,8 @@ Web Socket 기반의 Netty Server Program
 ### 사용법
 Web Browser에서 127.0.0.1:9999/ws로 websocket 생성시
 HTTP가 websocket으로 업그레이드 된 후 join 메시지 전달.
-
-https://user-images.githubusercontent.com/45892592/72674855-450f0c00-3abf-11ea-80c2-7da5c92c23fd.JPG
+![websocket 문구]()
+![websocket 문구](https://user-images.githubusercontent.com/45892592/72674861-55bf8200-3abf-11ea-8eb4-5ea0857ddceb.JPG)
 
 ### Codec
 
